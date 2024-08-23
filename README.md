@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Mukul
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Mern Stack
+- 🌱 I’m currently Using  Mern Stack
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me-instagram=Mukul_latwal1 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Not gonna
 
 <!---
 MukulSSrank/MukulSSrank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
