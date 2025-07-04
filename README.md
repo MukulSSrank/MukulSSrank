@@ -31,7 +31,6 @@
 
 ---
 
-Would you like me to combine both **MERN Stack** and **Data Science** in one profile, or keep them separate for two GitHub accounts or different repos?
 
 <!---
 MukulSSrank/MukulSSrank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
